@@ -1,2 +1,2 @@
 # IIIT-B-Projects
-This repository contains all the big projects I built during my PGD at IIIT Bangalore.
+This repository contains all the major projects I built during my PGD(AI & ML - MLOps) at IIIT Bangalore.
